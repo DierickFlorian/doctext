@@ -1,1 +1,1 @@
-{"Getsuga Slayers": "2", "mvip2": ["3", "koalapascontent"], "Craftor444": "4", "J\u00f6mbie": "4", "nezatio": "3", "tanguyto": "4", "kaanitos": "4", "craftor444": ["4", "Craftor444"]}
+{"Getsuga Slayers": ["2", "Rikudoblue1"], "mvip2": ["3", "koalapascontent"], "craftor444": ["4", "Craftor444"]}
