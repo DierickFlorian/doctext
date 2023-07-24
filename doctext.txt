@@ -1,1 +1,1 @@
-{"Getsuga Slayers": ["40", "Rikudoblue1"], "mvip2": [80, "koalapascontent"], "craftor444": [80, "Craftor444"]}
+{"Getsuga Slayers": ["40", "Rikudoblue1"], "mvip2": [60, "koalapascontent"], "craftor444": [80, "Craftor444"]}
