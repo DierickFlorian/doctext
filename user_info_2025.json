@@ -23,16 +23,62 @@
         {}
     ],
     "mvip2": [
-        84.74,
+        56,
         [
             "koalapascontent",
             "",
             ""
         ],
+        1,
         0,
-        0,
-        {},
-        {},
+        {
+            "Mauwok": [
+                1,
+                0
+            ],
+            "Dazachuchil": [
+                1,
+                0
+            ],
+            "comodore2": [
+                1,
+                0
+            ],
+            "Basierovic": [
+                1,
+                0
+            ],
+            "Eristofff": [
+                1,
+                0
+            ],
+            "ExalyThor": [
+                1,
+                0
+            ],
+            "koalapascontent": [
+                1,
+                0
+            ],
+            "Aleks": [
+                1,
+                0
+            ],
+            "tajine bloubia": [
+                1,
+                0
+            ],
+            "RainbowDox": [
+                1,
+                0
+            ]
+        },
+        {
+            "Amumu": [
+                1,
+                0
+            ]
+        },
         [
             "f8d26697-1ba8-5dc2-b05f-8dc52f6302c0",
             "45c87fae-1f08-5adb-8171-f0257b38c3d2",
@@ -43,7 +89,12 @@
             3551927223657696,
             0
         ],
-        {}
+        {
+            "JUNGLE": [
+                1,
+                0
+            ]
+        }
     ],
     "craftor444": [
         62.5,
@@ -138,16 +189,62 @@
         {}
     ],
     "indrathkezess": [
-        148.68,
+        132,
         [
             "tajine bloubia",
             "Indrath Kezess",
             "couscous bzbib"
         ],
+        1,
         0,
-        0,
-        {},
-        {},
+        {
+            "Mauwok": [
+                1,
+                0
+            ],
+            "Dazachuchil": [
+                1,
+                0
+            ],
+            "comodore2": [
+                1,
+                0
+            ],
+            "Basierovic": [
+                1,
+                0
+            ],
+            "Eristofff": [
+                1,
+                0
+            ],
+            "ExalyThor": [
+                1,
+                0
+            ],
+            "koalapascontent": [
+                1,
+                0
+            ],
+            "Aleks": [
+                1,
+                0
+            ],
+            "tajine bloubia": [
+                1,
+                0
+            ],
+            "RainbowDox": [
+                1,
+                0
+            ]
+        },
+        {
+            "Jinx": [
+                1,
+                0
+            ]
+        },
         [
             "4ca84bff-40fc-5e2a-ac8a-58b00b6f3c0c",
             "b58998d0-47d6-5fe1-af4a-7858cbcd63d0",
@@ -158,7 +255,12 @@
             68948952,
             2617902994195552
         ],
-        {}
+        {
+            "CARRY": [
+                1,
+                0
+            ]
+        }
     ],
     "haleking": [
         76,
@@ -437,16 +539,62 @@
         {}
     ],
     "alexkest": [
-        103.30584707646177,
+        83,
         [
             "Aleks",
             "Alexkest",
             ""
         ],
+        1,
         0,
-        0,
-        {},
-        {},
+        {
+            "Mauwok": [
+                1,
+                0
+            ],
+            "Dazachuchil": [
+                1,
+                0
+            ],
+            "comodore2": [
+                1,
+                0
+            ],
+            "Basierovic": [
+                1,
+                0
+            ],
+            "Eristofff": [
+                1,
+                0
+            ],
+            "ExalyThor": [
+                1,
+                0
+            ],
+            "koalapascontent": [
+                1,
+                0
+            ],
+            "Aleks": [
+                1,
+                0
+            ],
+            "tajine bloubia": [
+                1,
+                0
+            ],
+            "RainbowDox": [
+                1,
+                0
+            ]
+        },
+        {
+            "Akali": [
+                1,
+                0
+            ]
+        },
         [
             "e0fb13fd-65da-5792-9b29-fb18972efa0a",
             "e0fb13fd-65da-5792-9b29-fb18972efa0a",
@@ -457,7 +605,12 @@
             2855121124410656,
             0
         ],
-        {}
+        {
+            "MIDDLE": [
+                1,
+                0
+            ]
+        }
     ],
     "maadib": [
         49.5,
