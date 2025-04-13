@@ -222,13 +222,13 @@
         }
     ],
     "mvip2": [
-        63,
+        70,
         [
             "koalapascontent",
             "",
             ""
         ],
-        105,
+        104,
         54,
         {
             "Craftor444": [
@@ -264,11 +264,11 @@
                 1
             ],
             "tajine bloubia": [
-                47,
+                46,
                 24
             ],
             "Aleks": [
-                29,
+                28,
                 18
             ],
             "kaanitos": [
@@ -312,7 +312,7 @@
                 6
             ],
             "koalapascontent": [
-                54,
+                53,
                 44
             ],
             "LCDA Gabiiii": [
@@ -398,34 +398,6 @@
             "his twink": [
                 1,
                 0
-            ],
-            "Mauwok": [
-                1,
-                0
-            ],
-            "Dazachuchil": [
-                1,
-                0
-            ],
-            "comodore2": [
-                1,
-                0
-            ],
-            "Basierovic": [
-                1,
-                0
-            ],
-            "Eristofff": [
-                1,
-                0
-            ],
-            "ExalyThor": [
-                1,
-                0
-            ],
-            "RainbowDox": [
-                1,
-                0
             ]
         },
         {
@@ -480,10 +452,6 @@
             "Caitlyn": [
                 1,
                 0
-            ],
-            "Amumu": [
-                1,
-                0
             ]
         },
         [
@@ -512,10 +480,6 @@
             "MIDDLE": [
                 15,
                 6
-            ],
-            "JUNGLE": [
-                1,
-                0
             ]
         }
     ],
@@ -1131,13 +1095,13 @@
         {}
     ],
     "indrathkezess": [
-        137,
+        142,
         [
             "tajine bloubia",
             "Indrath Kezess",
             "couscous bzbib"
         ],
-        97,
+        96,
         52,
         {
             "Nopa": [
@@ -1177,7 +1141,7 @@
                 2
             ],
             "koalapascontent": [
-                44,
+                43,
                 24
             ],
             "Seiift": [
@@ -1189,7 +1153,7 @@
                 16
             ],
             "Aleks": [
-                30,
+                29,
                 18
             ],
             "fermelaaa": [
@@ -1213,7 +1177,7 @@
                 11
             ],
             "tajine bloubia": [
-                74,
+                73,
                 41
             ],
             "P\u0394L\u0394\u00d0\u00d8RI": [
@@ -1283,34 +1247,6 @@
             "Hyceqaeti": [
                 1,
                 0
-            ],
-            "Mauwok": [
-                1,
-                0
-            ],
-            "Dazachuchil": [
-                1,
-                0
-            ],
-            "comodore2": [
-                1,
-                0
-            ],
-            "Basierovic": [
-                1,
-                0
-            ],
-            "Eristofff": [
-                1,
-                0
-            ],
-            "ExalyThor": [
-                1,
-                0
-            ],
-            "RainbowDox": [
-                1,
-                0
             ]
         },
         {
@@ -1331,7 +1267,7 @@
                 2
             ],
             "Jinx": [
-                13,
+                12,
                 8
             ],
             "Twitch": [
@@ -1396,18 +1332,18 @@
             ]
         },
         [
-            "b58998d0-47d6-5fe1-af4a-7858cbcd63d0",
+            "4ca84bff-40fc-5e2a-ac8a-58b00b6f3c0c",
             "b58998d0-47d6-5fe1-af4a-7858cbcd63d0",
             "4ca84bff-40fc-5e2a-ac8a-58b00b6f3c0c"
         ],
         [
-            68948952,
+            2617902994195552,
             68948952,
             2617902994195552
         ],
         {
             "CARRY": [
-                30,
+                29,
                 21
             ],
             "JUNGLE": [
@@ -3141,13 +3077,13 @@
         {}
     ],
     "alexkest": [
-        87,
+        91.6,
         [
             "Aleks",
             "Alexkest",
             ""
         ],
-        82,
+        81,
         46,
         {
             "Craftor444": [
@@ -3159,7 +3095,7 @@
                 7
             ],
             "koalapascontent": [
-                29,
+                28,
                 18
             ],
             "Nopa": [
@@ -3179,7 +3115,7 @@
                 3
             ],
             "tajine bloubia": [
-                31,
+                30,
                 19
             ],
             "Ralb11": [
@@ -3195,7 +3131,7 @@
                 7
             ],
             "Aleks": [
-                50,
+                49,
                 41
             ],
             "TDF TheHalfblood": [
@@ -3249,39 +3185,11 @@
             "Aku": [
                 1,
                 1
-            ],
-            "Mauwok": [
-                1,
-                0
-            ],
-            "Dazachuchil": [
-                1,
-                0
-            ],
-            "comodore2": [
-                1,
-                0
-            ],
-            "Basierovic": [
-                1,
-                0
-            ],
-            "Eristofff": [
-                1,
-                0
-            ],
-            "ExalyThor": [
-                1,
-                0
-            ],
-            "RainbowDox": [
-                1,
-                0
             ]
         },
         {
             "Akali": [
-                18,
+                17,
                 8
             ],
             "Olaf": [
@@ -3397,7 +3305,7 @@
         ],
         {
             "MIDDLE": [
-                22,
+                21,
                 11
             ],
             "JUNGLE": [
