@@ -1,61 +1,65 @@
 {
     "getsugaslayers": [
-        14,
+        34,
         [
             "Rikudoblue1",
             "",
             ""
         ],
+        4,
         3,
-        2,
         {
             "KADHAFI": [
                 3,
                 2
             ],
             "koalapascontent": [
-                3,
-                2
+                4,
+                3
             ],
             "Rikudoblue1": [
-                3,
-                2
+                4,
+                3
             ],
             "fermelaaa": [
-                3,
-                2
+                4,
+                3
             ],
             "tajine bloubia": [
-                3,
-                2
+                4,
+                3
             ],
             "Aleks": [
-                3,
-                2
+                4,
+                3
             ],
             "his twink": [
                 2,
                 2
             ],
             "Tanguyto": [
-                3,
-                2
+                4,
+                3
             ],
             "Nopa": [
-                3,
-                2
+                4,
+                3
             ],
             "Ste1fan2": [
-                2,
-                2
+                3,
+                3
             ],
             "tanakaTV": [
-                1,
-                0
+                2,
+                1
             ],
             "qubu": [
                 1,
                 0
+            ],
+            "IOP EAU 140": [
+                1,
+                1
             ]
         },
         {
@@ -70,6 +74,10 @@
             "Shyvana": [
                 1,
                 0
+            ],
+            "Draven": [
+                1,
+                1
             ]
         },
         [
@@ -94,72 +102,80 @@
             "JUNGLE": [
                 1,
                 0
+            ],
+            "CARRY": [
+                1,
+                1
             ]
         }
     ],
     "mvip2": [
-        72,
+        100.2,
         [
             "koalapascontent",
             "",
             ""
         ],
+        4,
         3,
-        2,
         {
             "KADHAFI": [
                 3,
                 2
             ],
             "koalapascontent": [
-                3,
-                2
+                4,
+                3
             ],
             "Rikudoblue1": [
-                3,
-                2
+                4,
+                3
             ],
             "fermelaaa": [
-                3,
-                2
+                4,
+                3
             ],
             "tajine bloubia": [
-                3,
-                2
+                4,
+                3
             ],
             "Aleks": [
-                3,
-                2
+                4,
+                3
             ],
             "his twink": [
                 2,
                 2
             ],
             "Tanguyto": [
-                3,
-                2
+                4,
+                3
             ],
             "Nopa": [
-                3,
-                2
+                4,
+                3
             ],
             "Ste1fan2": [
-                2,
-                2
+                3,
+                3
             ],
             "tanakaTV": [
-                1,
-                0
+                2,
+                1
             ],
             "qubu": [
                 1,
                 0
+            ],
+            "IOP EAU 140": [
+                1,
+                1
             ]
         },
         {
             "Bard": [
-                1,
-                1
+                2,
+                2
             ],
             "Milio": [
                 1,
@@ -186,8 +202,8 @@
                 1
             ],
             "SUPPORT": [
-                1,
-                1
+                2,
+                2
             ],
             "CARRY": [
                 1,
@@ -265,62 +281,66 @@
         {}
     ],
     "tanguyto": [
-        50,
+        70.2,
         [
             "Tanguyto",
             "",
             ""
         ],
-        3,
-        0,
+        4,
+        1,
         {
             "KADHAFI": [
                 3,
                 0
             ],
             "koalapascontent": [
-                3,
-                0
+                4,
+                1
             ],
             "Rikudoblue1": [
-                3,
-                0
+                4,
+                1
             ],
             "fermelaaa": [
-                3,
-                0
+                4,
+                1
             ],
             "tajine bloubia": [
-                3,
-                0
+                4,
+                1
             ],
             "Aleks": [
-                3,
-                0
+                4,
+                1
             ],
             "his twink": [
                 2,
                 0
             ],
             "Tanguyto": [
-                3,
-                0
+                4,
+                1
             ],
             "Nopa": [
-                3,
-                0
+                4,
+                1
             ],
             "Ste1fan2": [
-                2,
-                0
+                3,
+                1
             ],
             "tanakaTV": [
-                1,
-                0
+                2,
+                1
             ],
             "qubu": [
                 1,
                 0
+            ],
+            "IOP EAU 140": [
+                1,
+                1
             ]
         },
         {
@@ -333,8 +353,8 @@
                 0
             ],
             "Veigar": [
-                1,
-                0
+                2,
+                1
             ]
         },
         [
@@ -357,19 +377,19 @@
                 0
             ],
             "MIDDLE": [
-                1,
-                0
+                2,
+                1
             ]
         }
     ],
     "indrathkezess": [
-        149.1805987931938,
+        131,
         [
             "tajine bloubia",
             "Indrath Kezess",
             "couscous bzbib"
         ],
-        3,
+        4,
         3,
         {
             "KADHAFI": [
@@ -377,23 +397,23 @@
                 3
             ],
             "koalapascontent": [
-                3,
+                4,
                 3
             ],
             "Rikudoblue1": [
-                3,
+                4,
                 3
             ],
             "fermelaaa": [
-                3,
+                4,
                 3
             ],
             "tajine bloubia": [
-                3,
+                4,
                 3
             ],
             "Aleks": [
-                3,
+                4,
                 3
             ],
             "his twink": [
@@ -401,24 +421,28 @@
                 2
             ],
             "Tanguyto": [
-                3,
+                4,
                 3
             ],
             "Nopa": [
-                3,
+                4,
                 3
             ],
             "Ste1fan2": [
-                2,
+                3,
                 2
             ],
             "tanakaTV": [
-                1,
+                2,
                 1
             ],
             "qubu": [
                 1,
                 1
+            ],
+            "IOP EAU 140": [
+                1,
+                0
             ]
         },
         {
@@ -433,6 +457,10 @@
             "Ashe": [
                 1,
                 1
+            ],
+            "Kaisa": [
+                1,
+                0
             ]
         },
         [
@@ -453,6 +481,10 @@
             "CARRY": [
                 2,
                 2
+            ],
+            "MIDDLE": [
+                1,
+                0
             ]
         }
     ],
@@ -572,60 +604,64 @@
         {}
     ],
     "_jombie": [
-        15.8,
+        22.2,
         [
             "Nopa",
             "UwU if you carry",
             ""
         ],
-        3,
-        1,
+        4,
+        2,
         {
             "KADHAFI": [
                 3,
                 1
             ],
             "koalapascontent": [
-                3,
-                1
+                4,
+                2
             ],
             "Rikudoblue1": [
-                3,
-                1
+                4,
+                2
             ],
             "fermelaaa": [
-                3,
-                1
+                4,
+                2
             ],
             "tajine bloubia": [
-                3,
-                1
+                4,
+                2
             ],
             "Aleks": [
-                3,
-                1
+                4,
+                2
             ],
             "his twink": [
                 2,
                 0
             ],
             "Tanguyto": [
-                3,
-                1
+                4,
+                2
             ],
             "Nopa": [
+                4,
+                2
+            ],
+            "Ste1fan2": [
                 3,
                 1
             ],
-            "Ste1fan2": [
-                2,
-                0
-            ],
             "tanakaTV": [
+                2,
+                2
+            ],
+            "qubu": [
                 1,
                 1
             ],
-            "qubu": [
+            "IOP EAU 140": [
                 1,
                 1
             ]
@@ -640,6 +676,10 @@
                 0
             ],
             "Sona": [
+                1,
+                1
+            ],
+            "Evelynn": [
                 1,
                 1
             ]
@@ -666,17 +706,21 @@
             "SUPPORT": [
                 1,
                 1
+            ],
+            "JUNGLE": [
+                1,
+                1
             ]
         }
     ],
     "ilias99": [
-        -9,
+        -17,
         [
             "fermelaaa",
             "",
             ""
         ],
-        3,
+        4,
         2,
         {
             "KADHAFI": [
@@ -684,23 +728,23 @@
                 2
             ],
             "koalapascontent": [
-                3,
+                4,
                 2
             ],
             "Rikudoblue1": [
-                3,
+                4,
                 2
             ],
             "fermelaaa": [
-                3,
+                4,
                 2
             ],
             "tajine bloubia": [
-                3,
+                4,
                 2
             ],
             "Aleks": [
-                3,
+                4,
                 2
             ],
             "his twink": [
@@ -708,22 +752,26 @@
                 2
             ],
             "Tanguyto": [
-                3,
+                4,
                 2
             ],
             "Nopa": [
-                3,
+                4,
                 2
             ],
             "Ste1fan2": [
-                2,
+                3,
                 2
             ],
             "tanakaTV": [
-                1,
+                2,
                 0
             ],
             "qubu": [
+                1,
+                0
+            ],
+            "IOP EAU 140": [
                 1,
                 0
             ]
@@ -738,6 +786,10 @@
                 1
             ],
             "Janna": [
+                1,
+                0
+            ],
+            "Volibear": [
                 1,
                 0
             ]
@@ -762,6 +814,10 @@
                 1
             ],
             "SUPPORT": [
+                1,
+                0
+            ],
+            "TOP": [
                 1,
                 0
             ]
@@ -814,13 +870,13 @@
         {}
     ],
     "ste1fan2": [
-        -18,
+        -27,
         [
             "Ste1fan2",
             "",
             ""
         ],
-        2,
+        3,
         0,
         {
             "KADHAFI": [
@@ -828,23 +884,23 @@
                 0
             ],
             "koalapascontent": [
-                2,
+                3,
                 0
             ],
             "Rikudoblue1": [
-                2,
+                3,
                 0
             ],
             "fermelaaa": [
-                2,
+                3,
                 0
             ],
             "tajine bloubia": [
-                2,
+                3,
                 0
             ],
             "Aleks": [
-                2,
+                3,
                 0
             ],
             "his twink": [
@@ -852,15 +908,23 @@
                 0
             ],
             "Tanguyto": [
-                2,
+                3,
                 0
             ],
             "Nopa": [
-                2,
+                3,
                 0
             ],
             "Ste1fan2": [
-                2,
+                3,
+                0
+            ],
+            "IOP EAU 140": [
+                1,
+                0
+            ],
+            "tanakaTV": [
+                1,
                 0
             ]
         },
@@ -870,6 +934,10 @@
                 0
             ],
             "Zac": [
+                1,
+                0
+            ],
+            "Swain": [
                 1,
                 0
             ]
@@ -890,6 +958,10 @@
                 0
             ],
             "JUNGLE": [
+                1,
+                0
+            ],
+            "CARRY": [
                 1,
                 0
             ]
@@ -1013,62 +1085,66 @@
         {}
     ],
     "alexkest": [
-        53,
+        75.8,
         [
             "Aleks",
             "Alexkest",
             ""
         ],
-        3,
-        0,
+        4,
+        1,
         {
             "KADHAFI": [
                 3,
                 0
             ],
             "koalapascontent": [
-                3,
-                0
+                4,
+                1
             ],
             "Rikudoblue1": [
-                3,
-                0
+                4,
+                1
             ],
             "fermelaaa": [
-                3,
-                0
+                4,
+                1
             ],
             "tajine bloubia": [
-                3,
-                0
+                4,
+                1
             ],
             "Aleks": [
-                3,
-                0
+                4,
+                1
             ],
             "his twink": [
                 2,
                 0
             ],
             "Tanguyto": [
-                3,
-                0
+                4,
+                1
             ],
             "Nopa": [
-                3,
-                0
+                4,
+                1
             ],
             "Ste1fan2": [
-                2,
-                0
+                3,
+                1
             ],
             "tanakaTV": [
-                1,
-                0
+                2,
+                1
             ],
             "qubu": [
                 1,
                 0
+            ],
+            "IOP EAU 140": [
+                1,
+                1
             ]
         },
         {
@@ -1077,8 +1153,8 @@
                 0
             ],
             "Ambessa": [
-                2,
-                0
+                3,
+                1
             ]
         },
         [
@@ -1101,8 +1177,8 @@
                 0
             ],
             "TOP": [
-                1,
-                0
+                2,
+                1
             ]
         }
     ],
@@ -1130,17 +1206,17 @@
         {}
     ],
     "hiro3890": [
-        12.8,
+        -11,
         [
             "tanakaTV",
             "",
             ""
         ],
-        1,
+        2,
         1,
         {
             "Nopa": [
-                1,
+                2,
                 1
             ],
             "KADHAFI": [
@@ -1148,11 +1224,11 @@
                 1
             ],
             "tanakaTV": [
-                1,
+                2,
                 1
             ],
             "tajine bloubia": [
-                1,
+                2,
                 1
             ],
             "qubu": [
@@ -1160,30 +1236,42 @@
                 1
             ],
             "Aleks": [
-                1,
+                2,
                 1
             ],
             "Rikudoblue1": [
-                1,
+                2,
                 1
             ],
             "koalapascontent": [
-                1,
+                2,
                 1
             ],
             "Tanguyto": [
-                1,
+                2,
                 1
             ],
             "fermelaaa": [
-                1,
+                2,
                 1
+            ],
+            "Ste1fan2": [
+                1,
+                0
+            ],
+            "IOP EAU 140": [
+                1,
+                0
             ]
         },
         {
             "MasterYi": [
                 1,
                 1
+            ],
+            "Senna": [
+                1,
+                0
             ]
         },
         [
@@ -1200,6 +1288,10 @@
             "JUNGLE": [
                 1,
                 1
+            ],
+            "SUPPORT": [
+                1,
+                0
             ]
         }
     ],
@@ -1751,16 +1843,62 @@
         }
     ],
     "guirlande99": [
-        100,
+        84,
         [
             "IOP EAU 140",
             "",
             ""
         ],
+        1,
         0,
-        0,
-        {},
-        {},
+        {
+            "Ste1fan2": [
+                1,
+                0
+            ],
+            "fermelaaa": [
+                1,
+                0
+            ],
+            "IOP EAU 140": [
+                1,
+                0
+            ],
+            "tanakaTV": [
+                1,
+                0
+            ],
+            "tajine bloubia": [
+                1,
+                0
+            ],
+            "Nopa": [
+                1,
+                0
+            ],
+            "Aleks": [
+                1,
+                0
+            ],
+            "koalapascontent": [
+                1,
+                0
+            ],
+            "Tanguyto": [
+                1,
+                0
+            ],
+            "Rikudoblue1": [
+                1,
+                0
+            ]
+        },
+        {
+            "Briar": [
+                1,
+                0
+            ]
+        },
         [
             "",
             "",
@@ -1771,6 +1909,11 @@
             0,
             0
         ],
-        {}
+        {
+            "JUNGLE": [
+                1,
+                0
+            ]
+        }
     ]
 }
