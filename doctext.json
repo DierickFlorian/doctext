@@ -1343,7 +1343,7 @@
         124.625,
         [
             "tajine bloubia",
-            "Indrath Kezess",
+            "Le Minotaure",
             "couscous bzbib"
         ],
         108,
@@ -6440,10 +6440,10 @@
         }
     ],
     "tayce": [
-        80.92,
+        90.92,
         [
             "The King",
-            "",
+            "Bored but shiny",
             ""
         ],
         1,
@@ -6645,6 +6645,29 @@
         60,
         [
             "f0utrefactory#ffy",
+            "",
+            ""
+        ],
+        0,
+        0,
+        {},
+        {},
+        [
+            "",
+            "",
+            ""
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        {}
+    ],
+    "_zamir_": [
+        60,
+        [
+            "Ryoiki Tenkai",
             "",
             ""
         ],
