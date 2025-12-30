@@ -1,26 +1,293 @@
 {
-    "getsugaslayers": [
-        0,
+ "getsugaslayers": [
+        1.9199999999999982,
         [
-            "getsugaslayers#0",
+            "Rikudoblue1",
             "",
             ""
         ],
-        0,
-        0,
-        {},
-        {},
+        78,
+        42,
+        {
+            "Nopa": [
+                28,
+                14
+            ],
+            "Hamasterclass": [
+                7,
+                3
+            ],
+            "momopoly": [
+                15,
+                8
+            ],
+            "spidy99": [
+                1,
+                0
+            ],
+            "link1140": [
+                2,
+                0
+            ],
+            "Craftor444": [
+                31,
+                17
+            ],
+            "tajine bloubia": [
+                39,
+                23
+            ],
+            "Montho Rush GM": [
+                2,
+                2
+            ],
+            "fermelaaa": [
+                30,
+                16
+            ],
+            "koalapascontent": [
+                41,
+                23
+            ],
+            "kaanitos": [
+                7,
+                4
+            ],
+            "cuicuipopo": [
+                1,
+                0
+            ],
+            "narutard": [
+                3,
+                2
+            ],
+            "KC Darveven": [
+                13,
+                9
+            ],
+            "TDF TheHalfblood": [
+                13,
+                7
+            ],
+            "Aleks": [
+                23,
+                14
+            ],
+            "Rikudoblue1": [
+                47,
+                32
+            ],
+            "ornny fan": [
+                2,
+                1
+            ],
+            "CARLIBOS": [
+                2,
+                2
+            ],
+            "Braz\u00f9ca": [
+                7,
+                2
+            ],
+            "Hyceqaeti": [
+                2,
+                1
+            ],
+            "Ralb11": [
+                8,
+                4
+            ],
+            "he1mao": [
+                7,
+                5
+            ],
+            "Ste1fan2": [
+                15,
+                9
+            ],
+            "tanakaTV": [
+                8,
+                3
+            ],
+            "TigreNumero2": [
+                1,
+                0
+            ],
+            "KADHAFI": [
+                7,
+                5
+            ],
+            "his twink": [
+                2,
+                2
+            ],
+            "Tanguyto": [
+                8,
+                6
+            ],
+            "qubu": [
+                1,
+                0
+            ],
+            "IOP EAU 140": [
+                3,
+                3
+            ],
+            "Darveven": [
+                3,
+                2
+            ],
+            "The King": [
+                1,
+                0
+            ],
+            "ElMurloc": [
+                2,
+                1
+            ],
+            "Emilia T\u00e0n": [
+                1,
+                0
+            ],
+            "RUSHCIEL": [
+                2,
+                0
+            ],
+            "PrincessYuumi": [
+                9,
+                5
+            ],
+            "Le Minotaure": [
+                6,
+                2
+            ],
+            "JaimeLaFouf": [
+                6,
+                2
+            ],
+            "sifics": [
+                1,
+                1
+            ]
+        },
+        {
+            "Garen": [
+                20,
+                13
+            ],
+            "Olaf": [
+                2,
+                1
+            ],
+            "KSante": [
+                1,
+                1
+            ],
+            "Yasuo": [
+                5,
+                2
+            ],
+            "Fizz": [
+                1,
+                0
+            ],
+            "Caitlyn": [
+                4,
+                3
+            ],
+            "Jax": [
+                5,
+                3
+            ],
+            "AurelionSol": [
+                3,
+                1
+            ],
+            "Renekton": [
+                8,
+                5
+            ],
+            "Mordekaiser": [
+                2,
+                2
+            ],
+            "Aatrox": [
+                1,
+                0
+            ],
+            "DrMundo": [
+                1,
+                0
+            ],
+            "Yuumi": [
+                1,
+                1
+            ],
+            "Gragas": [
+                1,
+                1
+            ],
+            "Lux": [
+                1,
+                0
+            ],
+            "Nunu": [
+                2,
+                1
+            ],
+            "Shyvana": [
+                4,
+                1
+            ],
+            "Gwen": [
+                8,
+                4
+            ],
+            "Draven": [
+                6,
+                2
+            ],
+            "Ezreal": [
+                1,
+                1
+            ],
+            "Ashe": [
+                1,
+                0
+            ]
+        },
         [
-            "",
-            "",
-            ""
-        ],
-        [
-            0,
+            "Rikudoblue1",
             0,
             0
         ],
-        {}
+        [
+            2587490795128064,
+            0,
+            0
+        ],
+        {
+            "JUNGLE": [
+                11,
+                4
+            ],
+            "MIDDLE": [
+                5,
+                2
+            ],
+            "TOP": [
+                15,
+                10
+            ],
+            "CARRY": [
+                10,
+                5
+            ],
+            "NONE": [
+                6,
+                2
+            ]
+        }
     ],
     "mvip2": [
         72.08,
