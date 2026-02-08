@@ -1,39 +1,39 @@
 {
     "getsugaslayers": [
-        14.399999999999999,
+        20,
         [
             "Rikudoblue1",
             "",
             ""
         ],
-        1,
-        1,
+        2,
+        2,
         {
             "Tanguyto": [
-                1,
-                1
+                2,
+                2
             ],
             "he1mao": [
-                1,
-                1
+                2,
+                2
             ],
             "Aleks": [
-                1,
-                1
+                2,
+                2
             ],
             "Rikudoblue1": [
-                1,
-                1
+                2,
+                2
             ],
             "POMMO": [
-                1,
-                1
+                2,
+                2
             ]
         },
         {
             "Sivir": [
-                1,
-                1
+                2,
+                2
             ]
         },
         [
@@ -48,44 +48,48 @@
         ],
         {
             "CARRY": [
-                1,
-                1
+                2,
+                2
             ]
         }
     ],
     "mvip2": [
-        59,
+        53,
         [
             "koalapascontent",
             "",
             ""
         ],
-        1,
+        2,
         0,
         {
             "KADHAFI": [
-                1,
+                2,
                 0
             ],
             "fermelaaa": [
-                1,
+                2,
                 0
             ],
             "PrincessYuumi": [
-                1,
+                2,
                 0
             ],
             "Le Minotaure": [
-                1,
+                2,
                 0
             ],
             "koalapascontent": [
-                1,
+                2,
                 0
             ]
         },
         {
             "Bard": [
+                1,
+                0
+            ],
+            "Rakan": [
                 1,
                 0
             ]
@@ -102,6 +106,10 @@
         ],
         {
             "SUPPORT": [
+                1,
+                0
+            ],
+            "TOP": [
                 1,
                 0
             ]
@@ -177,38 +185,42 @@
         {}
     ],
     "tanguyto": [
-        100.35778304316473,
+        106.13563304652133,
         [
             "Tanguyto",
             "",
             ""
         ],
-        1,
-        1,
+        2,
+        2,
         {
             "Tanguyto": [
-                1,
-                1
+                2,
+                2
             ],
             "he1mao": [
-                1,
-                1
+                2,
+                2
             ],
             "Aleks": [
-                1,
-                1
+                2,
+                2
             ],
             "Rikudoblue1": [
-                1,
-                1
+                2,
+                2
             ],
             "POMMO": [
-                1,
-                1
+                2,
+                2
             ]
         },
         {
             "DrMundo": [
+                1,
+                1
+            ],
+            "Garen": [
                 1,
                 1
             ]
@@ -225,44 +237,48 @@
         ],
         {
             "JUNGLE": [
-                1,
-                1
+                2,
+                2
             ]
         }
     ],
     "indrathkezess": [
-        96,
+        90,
         [
             "tajine bloubia",
             "Le Minotaure",
             "couscous bzbib"
         ],
-        1,
+        2,
         0,
         {
             "KADHAFI": [
-                1,
+                2,
                 0
             ],
             "fermelaaa": [
-                1,
+                2,
                 0
             ],
             "PrincessYuumi": [
-                1,
+                2,
                 0
             ],
             "Le Minotaure": [
-                1,
+                2,
                 0
             ],
             "koalapascontent": [
-                1,
+                2,
                 0
             ]
         },
         {
             "Lucian": [
+                1,
+                0
+            ],
+            "Tristana": [
                 1,
                 0
             ]
@@ -279,6 +295,10 @@
         ],
         {
             "CARRY": [
+                1,
+                0
+            ],
+            "MIDDLE": [
                 1,
                 0
             ]
@@ -400,38 +420,42 @@
         {}
     ],
     "_jombie": [
-        60,
+        53,
         [
             "Nopa",
             "UwU if you carry",
             "PrincessYuumi"
         ],
-        1,
+        2,
         0,
         {
             "KADHAFI": [
-                1,
+                2,
                 0
             ],
             "fermelaaa": [
-                1,
+                2,
                 0
             ],
             "PrincessYuumi": [
-                1,
+                2,
                 0
             ],
             "Le Minotaure": [
-                1,
+                2,
                 0
             ],
             "koalapascontent": [
-                1,
+                2,
                 0
             ]
         },
         {
             "Katarina": [
+                1,
+                0
+            ],
+            "Aurora": [
                 1,
                 0
             ]
@@ -448,44 +472,48 @@
         ],
         {
             "MIDDLE": [
-                1,
+                2,
                 0
             ]
         }
     ],
     "ilias99": [
-        31,
+        24,
         [
             "fermelaaa",
             "",
             ""
         ],
-        1,
+        2,
         0,
         {
             "KADHAFI": [
-                1,
+                2,
                 0
             ],
             "fermelaaa": [
-                1,
+                2,
                 0
             ],
             "PrincessYuumi": [
-                1,
+                2,
                 0
             ],
             "Le Minotaure": [
-                1,
+                2,
                 0
             ],
             "koalapascontent": [
-                1,
+                2,
                 0
             ]
         },
         {
             "Vi": [
+                1,
+                0
+            ],
+            "Volibear": [
                 1,
                 0
             ]
@@ -502,7 +530,7 @@
         ],
         {
             "JUNGLE": [
-                1,
+                2,
                 0
             ]
         }
@@ -577,38 +605,42 @@
         {}
     ],
     "aguamelon_": [
-        69,
+        62,
         [
             "Hamasterclass",
             "KADHAFI",
             ""
         ],
-        1,
+        2,
         0,
         {
             "KADHAFI": [
-                1,
+                2,
                 0
             ],
             "fermelaaa": [
-                1,
+                2,
                 0
             ],
             "PrincessYuumi": [
-                1,
+                2,
                 0
             ],
             "Le Minotaure": [
-                1,
+                2,
                 0
             ],
             "koalapascontent": [
-                1,
+                2,
                 0
             ]
         },
         {
             "Gnar": [
+                1,
+                0
+            ],
+            "Aatrox": [
                 1,
                 0
             ]
@@ -625,6 +657,10 @@
         ],
         {
             "JUNGLE": [
+                1,
+                0
+            ],
+            "TOP": [
                 1,
                 0
             ]
@@ -654,40 +690,40 @@
         {}
     ],
     "alexkest": [
-        124.94318721381016,
+        130.8495180008769,
         [
             "Aleks",
             "Alexkest",
             ""
         ],
-        1,
-        1,
+        2,
+        2,
         {
             "Tanguyto": [
-                1,
-                1
+                2,
+                2
             ],
             "he1mao": [
-                1,
-                1
+                2,
+                2
             ],
             "Aleks": [
-                1,
-                1
+                2,
+                2
             ],
             "Rikudoblue1": [
-                1,
-                1
+                2,
+                2
             ],
             "POMMO": [
-                1,
-                1
+                2,
+                2
             ]
         },
         {
             "Naafiri": [
-                1,
-                1
+                2,
+                2
             ]
         },
         [
@@ -702,46 +738,46 @@
         ],
         {
             "MIDDLE": [
-                1,
-                1
+                2,
+                2
             ]
         }
     ],
     "maadib": [
-        50.4,
+        56,
         [
             "narutard",
             "POMMO",
             ""
         ],
-        1,
-        1,
+        2,
+        2,
         {
             "Tanguyto": [
-                1,
-                1
+                2,
+                2
             ],
             "he1mao": [
-                1,
-                1
+                2,
+                2
             ],
             "Aleks": [
-                1,
-                1
+                2,
+                2
             ],
             "Rikudoblue1": [
-                1,
-                1
+                2,
+                2
             ],
             "POMMO": [
-                1,
-                1
+                2,
+                2
             ]
         },
         {
             "Velkoz": [
-                1,
-                1
+                2,
+                2
             ]
         },
         [
@@ -756,8 +792,8 @@
         ],
         {
             "SUPPORT": [
-                1,
-                1
+                2,
+                2
             ]
         }
     ],
@@ -923,38 +959,42 @@
         {}
     ],
     "heavhey": [
-        94.92,
+        102.92857142857143,
         [
             "he1mao",
             "",
             ""
         ],
-        1,
-        1,
+        2,
+        2,
         {
             "Tanguyto": [
-                1,
-                1
+                2,
+                2
             ],
             "he1mao": [
-                1,
-                1
+                2,
+                2
             ],
             "Aleks": [
-                1,
-                1
+                2,
+                2
             ],
             "Rikudoblue1": [
-                1,
-                1
+                2,
+                2
             ],
             "POMMO": [
-                1,
-                1
+                2,
+                2
             ]
         },
         {
             "Sylas": [
+                1,
+                1
+            ],
+            "Malphite": [
                 1,
                 1
             ]
@@ -971,8 +1011,8 @@
         ],
         {
             "JUNGLE": [
-                1,
-                1
+                2,
+                2
             ]
         }
     ],
