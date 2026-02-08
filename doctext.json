@@ -1,13 +1,13 @@
 {
     "getsugaslayers": [
-        20,
+        26,
         [
             "Rikudoblue1",
             "",
             ""
         ],
-        81,
-        45,
+        82,
+        46,
         {
             "Tanguyto": [
                 2,
@@ -18,16 +18,28 @@
                 2
             ],
             "Aleks": [
-                2,
-                2
+                3,
+                3
             ],
             "Rikudoblue1": [
-                2,
-                2
+                3,
+                3
             ],
             "POMMO": [
                 2,
                 2
+            ],
+            "kaanitos": [
+                1,
+                1
+            ],
+            "Braz\u00fcca": [
+                1,
+                1
+            ],
+            "koalapascontent": [
+                1,
+                1
             ]
         },
         {
@@ -116,8 +128,8 @@
                 0
             ],
             "Sivir": [
-                2,
-                2
+                3,
+                3
             ]
         },
         [
@@ -144,8 +156,8 @@
                 10
             ],
             "CARRY": [
-                13,
-                8
+                14,
+                9
             ],
             "NONE": [
                 6,
@@ -154,14 +166,14 @@
         }
     ],
     "mvip2": [
-        53,
+        60.2,
         [
             "koalapascontent",
             "",
             ""
         ],
-        144,
-        72,
+        145,
+        73,
         {
             "KADHAFI": [
                 2,
@@ -180,8 +192,24 @@
                 0
             ],
             "koalapascontent": [
-                2,
-                0
+                3,
+                1
+            ],
+            "Aleks": [
+                1,
+                1
+            ],
+            "kaanitos": [
+                1,
+                1
+            ],
+            "Braz\u00fcca": [
+                1,
+                1
+            ],
+            "Rikudoblue1": [
+                1,
+                1
             ]
         },
         {
@@ -198,8 +226,8 @@
                 7
             ],
             "Bard": [
-                46,
-                26
+                47,
+                27
             ],
             "Nami": [
                 2,
@@ -254,8 +282,8 @@
         ],
         {
             "SUPPORT": [
-                39,
-                24
+                40,
+                25
             ],
             "CARRY": [
                 18,
@@ -276,15 +304,36 @@
         }
     ],
     "craftor444": [
-        73.28,
+        67,
         [
             "Craftor444",
             "",
             ""
         ],
-        112,
+        113,
         60,
-        {},
+        {
+            "fermelaaa": [
+                1,
+                0
+            ],
+            "Craftor444": [
+                1,
+                0
+            ],
+            "Le Minotaure": [
+                1,
+                0
+            ],
+            "PrincessYuumi": [
+                1,
+                0
+            ],
+            "momopoly": [
+                1,
+                0
+            ]
+        },
         {
             "Yorick": [
                 3,
@@ -299,7 +348,7 @@
                 2
             ],
             "Shaco": [
-                7,
+                8,
                 2
             ],
             "null": [
@@ -451,7 +500,7 @@
                 2
             ],
             "JUNGLE": [
-                8,
+                9,
                 6
             ],
             "NONE": [
@@ -701,13 +750,13 @@
         }
     ],
     "indrathkezess": [
-        90,
+        83,
         [
             "tajine bloubia",
             "Le Minotaure",
             "couscous bzbib"
         ],
-        134,
+        135,
         70,
         {
             "KADHAFI": [
@@ -715,19 +764,27 @@
                 0
             ],
             "fermelaaa": [
-                2,
+                3,
                 0
             ],
             "PrincessYuumi": [
-                2,
+                3,
                 0
             ],
             "Le Minotaure": [
-                2,
+                3,
                 0
             ],
             "koalapascontent": [
                 2,
+                0
+            ],
+            "Craftor444": [
+                1,
+                0
+            ],
+            "momopoly": [
+                1,
                 0
             ]
         },
@@ -793,7 +850,7 @@
                 0
             ],
             "Azir": [
-                1,
+                2,
                 0
             ],
             "Yone": [
@@ -857,7 +914,7 @@
                 6
             ],
             "MIDDLE": [
-                8,
+                9,
                 2
             ],
             "TOP": [
@@ -926,15 +983,36 @@
         {}
     ],
     "kaanitos": [
-        80,
+        87.2,
         [
             "kaanitos",
             "roidor10",
             ""
         ],
-        39,
-        20,
-        {},
+        40,
+        21,
+        {
+            "Aleks": [
+                1,
+                1
+            ],
+            "kaanitos": [
+                1,
+                1
+            ],
+            "Braz\u00fcca": [
+                1,
+                1
+            ],
+            "Rikudoblue1": [
+                1,
+                1
+            ],
+            "koalapascontent": [
+                1,
+                1
+            ]
+        },
         {
             "Samira": [
                 1,
@@ -1027,10 +1105,14 @@
             "LeeSin": [
                 1,
                 1
+            ],
+            "Gwen": [
+                1,
+                1
             ]
         },
         [
-            "4d1ce3e8-7234-5273-8fcf-8072b4a5304e",
+            "kaanitos",
             "ffb16d24-110f-5cd4-9275-7a87997bce70",
             0
         ],
@@ -1045,8 +1127,8 @@
                 2
             ],
             "JUNGLE": [
-                7,
-                4
+                8,
+                5
             ],
             "NONE": [
                 1,
@@ -1101,13 +1183,13 @@
         {}
     ],
     "_jombie": [
-        53,
+        46,
         [
             "Nopa",
             "UwU if you carry",
             "PrincessYuumi"
         ],
-        115,
+        116,
         54,
         {
             "KADHAFI": [
@@ -1115,19 +1197,27 @@
                 0
             ],
             "fermelaaa": [
-                2,
+                3,
                 0
             ],
             "PrincessYuumi": [
-                2,
+                3,
                 0
             ],
             "Le Minotaure": [
-                2,
+                3,
                 0
             ],
             "koalapascontent": [
                 2,
+                0
+            ],
+            "Craftor444": [
+                1,
+                0
+            ],
+            "momopoly": [
+                1,
                 0
             ]
         },
@@ -1193,7 +1283,7 @@
                 0
             ],
             "Zeri": [
-                2,
+                3,
                 0
             ],
             "Lillia": [
@@ -1361,19 +1451,19 @@
                 2
             ],
             "CARRY": [
-                4,
+                5,
                 2
             ]
         }
     ],
     "ilias99": [
-        24,
+        17,
         [
             "fermelaaa",
             "",
             ""
         ],
-        82,
+        83,
         40,
         {
             "KADHAFI": [
@@ -1381,19 +1471,27 @@
                 0
             ],
             "fermelaaa": [
-                2,
+                3,
                 0
             ],
             "PrincessYuumi": [
-                2,
+                3,
                 0
             ],
             "Le Minotaure": [
-                2,
+                3,
                 0
             ],
             "koalapascontent": [
                 2,
+                0
+            ],
+            "Craftor444": [
+                1,
+                0
+            ],
+            "momopoly": [
+                1,
                 0
             ]
         },
@@ -1455,7 +1553,7 @@
                 0
             ],
             "Volibear": [
-                5,
+                6,
                 2
             ],
             "Ornn": [
@@ -1515,7 +1613,7 @@
                 1
             ],
             "TOP": [
-                2,
+                3,
                 1
             ]
         }
@@ -1565,15 +1663,36 @@
         {}
     ],
     "momopoly": [
-        12.196,
+        6,
         [
             "momopoly",
             "",
             ""
         ],
-        42,
+        43,
         17,
-        {},
+        {
+            "fermelaaa": [
+                1,
+                0
+            ],
+            "Craftor444": [
+                1,
+                0
+            ],
+            "Le Minotaure": [
+                1,
+                0
+            ],
+            "PrincessYuumi": [
+                1,
+                0
+            ],
+            "momopoly": [
+                1,
+                0
+            ]
+        },
         {
             "Warwick": [
                 1,
@@ -1654,6 +1773,10 @@
             "Sejuani": [
                 1,
                 1
+            ],
+            "Blitzcrank": [
+                1,
+                0
             ]
         },
         [
@@ -1668,7 +1791,7 @@
         ],
         {
             "SUPPORT": [
-                4,
+                5,
                 1
             ],
             "TOP": [
@@ -2025,14 +2148,14 @@
         {}
     ],
     "alexkest": [
-        130.8495180008769,
+        135.787588677603,
         [
             "Aleks",
             "Alexkest",
             ""
         ],
-        118,
-        68,
+        119,
+        69,
         {
             "Tanguyto": [
                 2,
@@ -2043,16 +2166,28 @@
                 2
             ],
             "Aleks": [
-                2,
-                2
+                3,
+                3
             ],
             "Rikudoblue1": [
-                2,
-                2
+                3,
+                3
             ],
             "POMMO": [
                 2,
                 2
+            ],
+            "kaanitos": [
+                1,
+                1
+            ],
+            "Braz\u00fcca": [
+                1,
+                1
+            ],
+            "koalapascontent": [
+                1,
+                1
             ]
         },
         {
@@ -2141,8 +2276,8 @@
                 1
             ],
             "Naafiri": [
-                19,
-                13
+                20,
+                14
             ],
             "MissFortune": [
                 1,
@@ -2205,8 +2340,8 @@
                 23
             ],
             "JUNGLE": [
-                14,
-                9
+                15,
+                10
             ],
             "TOP": [
                 20,
